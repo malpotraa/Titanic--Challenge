@@ -17,8 +17,14 @@ In this contest, we ask you to complete the analysis of what sorts of people wer
 
 From the competition homepage.
 
-Goal for this Notebook:
+#### Goal for this Notebook:
 Show a simple example of an analysis of the Titanic disaster in Python using a full complement of PyData utilities.
+* Who were the passengers on the Titanic? (Ages,Gender,Class,..etc)
+* What deck were the passengers on and how does that relate to their class?
+* Where did the passengers come from?
+* Who was alone and who was with family?
+* Did the deck have an effect on the passengers survival rate?
+* Did having a family member increase the odds of surviving the crash?
 
 #### This Notebook will Show examples of:
 #### Data Handling
