@@ -16,8 +16,6 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 
 In this contest, we ask you to complete the analysis of what sorts of people were likely to survive. 
 
-From the competition homepage.
-
 #### Goal for this Notebook:
 Show a simple example of an analysis of the Titanic disaster in Python using a full complement of PyData utilities.
 * Who were the passengers on the Titanic? (Ages,Gender,Class,..etc)
